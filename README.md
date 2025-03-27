@@ -1,3 +1,1 @@
 # epam-training
-
-some context
